@@ -1,4 +1,16 @@
-body{
-    background-color: #222;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+body {
+    background-color: #001524;
     color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-weight: 400;
+}
+
+h2, h3 {
+    margin: 0;
 }
